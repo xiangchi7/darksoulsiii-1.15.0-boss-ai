@@ -1,4 +1,4 @@
-# Dark Souls III boss AI source
+# Dark Souls III 1.15.0 boss AI source
 
 **26 fights with a health bar: the code that decides "what does it do next", decompiled into readable Lua, with a guide to reading it.**
 
