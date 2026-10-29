@@ -22,8 +22,6 @@ SOFTWARE.
 
 ---
 
-Scope note: this licence covers the documentation, the index and the tooling
-written for this repository (README.md, NOTICE.md, index.tsv, docs/, tools/).
-It does NOT cover the files under scripts/, which are decompiled data from
-Dark Souls III and remain the property of FromSoftware / Bandai Namco — see
-NOTICE.md. The decompiler in tools/DSLuaDecompiler is a third-party MIT work.
+Scope note: this licence covers the documentation written for this repository (README.md, NOTICE.md).
+It does NOT cover the files under scripts/, which are decompiled data from Dark Souls III and remain
+the property of FromSoftware / Bandai Namco — see NOTICE.md.
